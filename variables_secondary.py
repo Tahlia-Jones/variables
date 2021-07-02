@@ -1,7 +1,7 @@
-# author: <name here>
-# date: <date here>
+# author: tahia jones
+# date: july 2, 2021
 #
-# description: <fill in>
+# description: variable
 
 
 # Variables can be used in the same expression to assign to the variable thanks to its unique properties.

@@ -1,7 +1,7 @@
-# author: <name here>
-# date: <date here>
+# author: tahlia jones
+# date: july 2, 2021
 #
-# description: <fill in>
+# description: <variables>
 
 # --------------- Section 1 --------------- #
 
@@ -25,7 +25,12 @@ print('EXAMPLE: my name is', example_name)
 
 # WRITE CODE BELOW
 
-
+name = 'tahlia'
+print('my name is', name)
+name = 'november 24th'
+print('my name is', name)
+name = 'snow tigers'
+print('my name is', name)
 
 # 1.2 | Variable Creation | Integers / Floats
 #
@@ -46,6 +51,11 @@ print('EXAMPLE: my name is', example_name)
 
 # WRITE CODE BELOW
 
+num1 = 34
+num2 = 24
+num3 = -10
+num4 = 6.7
+print('here are a few numbers:', num1, num2, num3, num4)
 
 
 # 1.3 | Overwriting Variables
@@ -68,7 +78,12 @@ print('EXAMPLE: my new name is', example_name)
 
 # WRITE CODE BELOW
 
-
+name = 'katherine'
+print('my new name is', name)
+name = 'october 31'
+print('my new name is', name)
+name = 2
+print('my new name is', name)
 
 # 1.4 | Operations
 #
@@ -95,3 +110,16 @@ example_sum = 11 + 21
 print('EXAMPLE: the sum of 11 and 21 is', example_sum)
 
 # WRITE CODE BELOW
+sum = 10 + 25
+print('the sum of 10 and 21 is', sum)
+sum = 2 * 7 * 8
+print('the sum of 2 and 7 and 8', sum)
+sum = 112 / 4
+print('the sum of 112 and 4', sum)
+sum = 'tahlia' + 'jugars'
+print('the sum of tahlia and jugars', sum)
+print('lmao' * 24)
+sum = 4 - 2
+print('the sum of 4 and 2', sum)
+sum = 2 ** 2
+print('the sum of 2 ** 2', sum)
